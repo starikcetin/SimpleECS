@@ -1,7 +1,4 @@
-﻿using UnityEngine;
-using System;
-using System.Linq;
-using System.Collections;
+﻿using System;
 using System.Collections.Generic;
 
 namespace SimpleECS.Internal
